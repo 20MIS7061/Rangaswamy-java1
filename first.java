@@ -1,6 +1,6 @@
-// This is empty file
+// This is empty file 
 class HelloWorld{
-	public static void main(String[] args){
-	System.out.println("Hello, World!");
+	public static void main(String args[]){
+		System.out.println("Hello, World!");
 	}
-}
+} 
